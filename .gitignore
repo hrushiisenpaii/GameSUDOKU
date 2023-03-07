@@ -3,3 +3,4 @@ solveSUDOKU.cpp:tests
 ValidateSUDOKU.cpp:tests
 validateSUDOKU
 solveSUDOKU
+.DS_Store
