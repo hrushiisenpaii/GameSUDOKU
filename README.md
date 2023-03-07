@@ -9,5 +9,5 @@ Inside the **SudokuCpp** folder is the file *solveSUDOKU.cpp*<br>
 Inside the **SudokuCpp** folder is the file *validateSUDOKU.cpp*<br>
 ### Using file to input values
 **ExampleFiles** contains the text file for input.<br>
-Simply run the code. Choose Option-2. Paste Path as *../ExampleFiles/sudokuSolve* for *solveSUDOKU.cpp*<br>
+Simply run the code<br> Choose Option-2<br> Paste Path as *../ExampleFiles/sudokuSolve* for *solveSUDOKU.cpp*<br>
 Or Paste Path as *../ExampleFiles/sudokuValidate* for *validateSUDOKU.cpp*
